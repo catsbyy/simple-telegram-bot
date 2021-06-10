@@ -1,0 +1,23 @@
+C:\Users\vandr\Desktop\Новая папка\MasterFitClubBot\bin\Debug\MasterFitClubBot.exe.config
+C:\Users\vandr\Desktop\Новая папка\MasterFitClubBot\bin\Debug\MasterFitClubBot.exe
+C:\Users\vandr\Desktop\Новая папка\MasterFitClubBot\bin\Debug\MasterFitClubBot.pdb
+C:\Users\vandr\Desktop\Новая папка\MasterFitClubBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vandr\Desktop\Новая папка\MasterFitClubBot\bin\Debug\Telegram.Bot.dll
+C:\Users\vandr\Desktop\Новая папка\MasterFitClubBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vandr\Desktop\Новая папка\MasterFitClubBot\bin\Debug\Telegram.Bot.xml
+C:\Users\vandr\Desktop\Новая папка\MasterFitClubBot\obj\Debug\MasterFitClubBot.csprojAssemblyReference.cache
+C:\Users\vandr\Desktop\Новая папка\MasterFitClubBot\obj\Debug\MasterFitClubBot.csproj.CopyComplete
+C:\Users\vandr\Desktop\Новая папка\MasterFitClubBot\obj\Debug\MasterFitClubBot.exe
+C:\Users\vandr\Desktop\Новая папка\MasterFitClubBot\obj\Debug\MasterFitClubBot.pdb
+C:\Users\vandr\Desktop\СSharp\MasterFitClubBot\bin\Debug\MasterFitClubBot.exe.config
+C:\Users\vandr\Desktop\СSharp\MasterFitClubBot\bin\Debug\MasterFitClubBot.exe
+C:\Users\vandr\Desktop\СSharp\MasterFitClubBot\bin\Debug\MasterFitClubBot.pdb
+C:\Users\vandr\Desktop\СSharp\MasterFitClubBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vandr\Desktop\СSharp\MasterFitClubBot\bin\Debug\Telegram.Bot.dll
+C:\Users\vandr\Desktop\СSharp\MasterFitClubBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vandr\Desktop\СSharp\MasterFitClubBot\bin\Debug\Telegram.Bot.xml
+C:\Users\vandr\Desktop\СSharp\MasterFitClubBot\obj\Debug\MasterFitClubBot.csprojAssemblyReference.cache
+C:\Users\vandr\Desktop\СSharp\MasterFitClubBot\obj\Debug\MasterFitClubBot.csproj.CoreCompileInputs.cache
+C:\Users\vandr\Desktop\СSharp\MasterFitClubBot\obj\Debug\MasterFitClubBot.csproj.CopyComplete
+C:\Users\vandr\Desktop\СSharp\MasterFitClubBot\obj\Debug\MasterFitClubBot.exe
+C:\Users\vandr\Desktop\СSharp\MasterFitClubBot\obj\Debug\MasterFitClubBot.pdb
